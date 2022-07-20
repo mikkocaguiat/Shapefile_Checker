@@ -1,0 +1,8 @@
+cabinetnam
+comments
+premise_co
+addressid
+SURFACETYP
+SURFACETEX
+FSA
+FDA

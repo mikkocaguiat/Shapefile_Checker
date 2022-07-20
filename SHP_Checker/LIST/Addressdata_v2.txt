@@ -1,0 +1,10 @@
+Object_Num
+Object_Typ
+Street
+Street_Num
+Postal_Cod
+Province
+City
+Building
+Organizati
+group_

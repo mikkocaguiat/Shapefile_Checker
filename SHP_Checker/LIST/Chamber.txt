@@ -1,0 +1,9 @@
+structuren
+comments
+SURFACETYP
+SURFACETEX
+FSA
+FDA
+FDP
+chambertyp
+hierarchy

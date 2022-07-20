@@ -1,0 +1,940 @@
+<ImportMXDLog>	<Messages>
+		<FileName>G:\Mikko\WORKING FILES\VxFiber\SOT\SOT_037\LLD\SOT_037_AL\MXD\SOT_037_AL Civil Works.mxd</FileName>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Neatlines were dropped from the layout.</Description>
+			<Code>20041</Code>
+			<ComponentName>SOT_037_AL Civil Works</ComponentName>
+			<ComponentType>Layout</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Due to the differences between mxds and projects, some dynamic text tags may have changed during the import process.</Description>
+			<Code>20044</Code>
+			<ComponentName>SOT_037_AL Civil Works</ComponentName>
+			<ComponentType>Layout</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer contains a multilayer line symbol whose symbol widths may result in aliasing when displayed</Description>
+			<Code>20007</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer contains a multilayer line symbol whose symbol widths may result in aliasing when displayed</Description>
+			<Code>20007</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Layer uses symbol level drawing with a non-simple fill symbol</Description>
+			<Code>10019</Code>
+			<ComponentName>Road_Centerline</ComponentName>
+			<ComponentType>Layer</ComponentType>
+</Message>
+		<Message>
+			<Name></Name>
+			<MessageType>Warning</MessageType>
+			<Severity>Medium</Severity>
+			<Description>Scale text elements are converted to dynamic text elements. Some formatting may be dropped. Please review the imported element and make formatting changes as necessary.</Description>
+			<Code>20046</Code>
+			<ComponentName>SOT_037_AL Civil Works</ComponentName>
+			<ComponentType>Layout</ComponentType>
+</Message>
+</Messages>
+</ImportMXDLog>

@@ -1,0 +1,6 @@
+cablename
+hierachy
+FDA
+cablecapac
+sparefibre
+FSA

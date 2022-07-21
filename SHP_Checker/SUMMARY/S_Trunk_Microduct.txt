@@ -2,7 +2,10 @@
 ================================================================
 | | | Trunk_Microduct
 ================================================================
-WRONG FDA NAME >>>>> id[0] ('HVH_002_AC001',), THIS SHOULD BE - HVH_002_AC001_AA
+[0] NULL
+WRONG FDA NAME >>>>> id[0] (' ',), THIS SHOULD BE - SOT_001_AI
+[ FDA ] = 1 NULLS
+----
 ------------------------------------
 Total Feature Count = 1
 |

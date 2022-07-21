@@ -8,7 +8,7 @@ FDA
 FDA_Boundary
 FDP
 FDP_Boundary
-FiberSpliceClosure
+FibreSpliceClosure
 FSA
 FSA_Boundary
 Routeline_Heirarchy

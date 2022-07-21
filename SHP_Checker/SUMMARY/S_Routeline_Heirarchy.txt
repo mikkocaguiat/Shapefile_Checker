@@ -2,7 +2,8 @@
 ================================================================
 | | | Routeline_Heirarchy
 ================================================================
-WRONG FDA NAME >>>>> id[449] ('HVH_002_AC001_AB',), THIS SHOULD BE - HVH_002_AC001_AA
+WRONG FSA NAME >>>>> id[544] ('SOT_015',), THIS SHOULD BE - SOT_001
+WRONG FDA NAME >>>>> id[544] ('SOT_001_AJ',), THIS SHOULD BE - SOT_001_AI
 ------------------------------------
-Total Feature Count = 481
+Total Feature Count = 586
 |

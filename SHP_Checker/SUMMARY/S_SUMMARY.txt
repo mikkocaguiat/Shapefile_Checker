@@ -1,10 +1,10 @@
 ================================================================
-HVH_002_AC001_AA_SHAPEFILE
+SOT_001_AI SHAPEFILE
 ================================================================
 SHAPEFILE TO CHECK >> 
-['Addressdata_v2', 'Chamber', 'Distribution_Cable', 'Distribution_Microduct', 'Drop_Microduct', 'FDA', 'FDA_Boundary', 'FDP', 'FDP_Boundary', 'Routeline_Heirarchy', 'Routeline_Lateral', 'TobyBox', 'Trunk_Cable', 'Trunk_Microduct', 'Wayleave']
+['Addressdata_v2', 'Chamber', 'Distribution_Cable', 'Distribution_Microduct', 'Drop_Microduct', 'FDA', 'FDA_Boundary', 'FDP', 'FDP_Boundary', 'Routeline_Heirarchy', 'Routeline_Lateral', 'SOTCC_CCTV', 'TobyBox', 'Trunk_Cable', 'Trunk_Microduct']
 |
 ================================================================
 SHP COUNT = 15
-MISSING SHP COUNT = 4
-MISSING SHP : ['CCTV', 'FiberSpliceClosure', 'FSA', 'FSA_Boundary']
+MISSING SHP COUNT = 5
+MISSING SHP : ['CCTV', 'FibreSpliceClosure', 'FSA', 'FSA_Boundary', 'Wayleave']
